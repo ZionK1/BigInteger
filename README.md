@@ -1,7 +1,7 @@
 #------------------------------------------------------------------------------
 
-This project contains source code for a BigInteger ADT that handles arbitrarily
-large signed integers and is able to perform arithmetic.
+# This project contains source code for a BigInteger ADT that handles arbitrarily
+# large signed integers and is able to perform arithmetic.
 
 #------------------------------------------------------------------------------
 

@@ -1,6 +1,8 @@
 #------------------------------------------------------------------------------
+
 This project contains source code for a BigInteger ADT that handles arbitrarily
 large signed integers and is able to perform arithmetic.
+
 #------------------------------------------------------------------------------
 
 Arithmetic.cpp - Program that parses through string from input file and performs 

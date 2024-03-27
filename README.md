@@ -1,8 +1,6 @@
 #------------------------------------------------------------------------------
-# Zion Kang, zkang5
-# 2023 Spring CSE101 PA6
-# README.md
-# Table of Contents for pa6
+This project contains source code for a BigInteger ADT that handles arbitrarily
+large signed integers and is able to perform arithmetic.
 #------------------------------------------------------------------------------
 
 Arithmetic.cpp - Program that parses through string from input file and performs 
